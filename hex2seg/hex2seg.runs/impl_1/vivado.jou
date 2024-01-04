@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jan  4 22:56:25 2024
+# Process ID: 2128
+# Current directory: C:/dev/projects/verilogVivado/hex2seg/hex2seg.runs/impl_1
+# Command line: vivado.exe -log sseg_test.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sseg_test.tcl -notrace
+# Log file: C:/dev/projects/verilogVivado/hex2seg/hex2seg.runs/impl_1/sseg_test.vdi
+# Journal file: C:/dev/projects/verilogVivado/hex2seg/hex2seg.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source sseg_test.tcl -notrace

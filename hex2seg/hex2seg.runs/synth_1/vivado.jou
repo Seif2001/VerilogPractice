@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jan  4 22:55:48 2024
+# Process ID: 13432
+# Current directory: C:/dev/projects/verilogVivado/hex2seg/hex2seg.runs/synth_1
+# Command line: vivado.exe -log sseg_test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sseg_test.tcl
+# Log file: C:/dev/projects/verilogVivado/hex2seg/hex2seg.runs/synth_1/sseg_test.vds
+# Journal file: C:/dev/projects/verilogVivado/hex2seg/hex2seg.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source sseg_test.tcl -notrace
