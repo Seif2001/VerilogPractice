@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sim_1/new/compare_storage_elements_tb.v,1704920384,verilog,,,,compare_storage_elements_tb,,,,,,,,
+C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sources_1/new/D_latch.v,1704918606,verilog,,C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sources_1/new/compare_storage_elements.v,,D_latch,,,,,,,,
+C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sources_1/new/compare_storage_elements.v,1704919523,verilog,,C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sources_1/new/dff_neg.v,,compare_storage_elements,,,,,,,,
+C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sources_1/new/dff_neg.v,1704918814,verilog,,C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sources_1/new/dff_pos.v,,dff_neg,,,,,,,,
+C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sources_1/new/dff_pos.v,1704919523,verilog,,C:/dev/projects/verilog_practice/latches_and_dffs/latches_and_dffs.srcs/sim_1/new/compare_storage_elements_tb.v,,dff_pos,,,,,,,,
