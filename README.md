@@ -7,7 +7,9 @@ Welcome to my Verilog practice projects repository! Here, you'll find a collecti
 1. **[Project 1: hex2seg](./hex2seg)**
    - A simple 4 bit haxadecimal to sevent segment decoder
    - Assumes a common anode on the Nexys A7-100t FPGA
-
+2. **[Project 1: Latches and flipflops](./latches_and_dff)**
+   - An RTL description of latches and flipflops.
+   - The difference between them is shown in the test
 
 <!-- Add more projects as needed -->
 
