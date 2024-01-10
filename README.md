@@ -9,7 +9,7 @@ Welcome to my Verilog practice projects repository! Here, you'll find a collecti
    - Assumes a common anode on the Nexys A7-100t FPGA
 2. **[Project 2: Latches and flipflops](./latches_and_dffs)**
    - An RTL description of latches and flipflops.
-   - The difference between them is shown in the test
+   - The difference between them is described in the compare_storage_elements module and is shown in the tesbench
 
 <!-- Add more projects as needed -->
 
